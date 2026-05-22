@@ -73,6 +73,7 @@ _Figure 1: Daily average energy use by light fittings._
 
 **Principal Components & Latent Structures**
 **PCA Scree Plot**
+
 ![PCA Scree Plot](assets/PCA.png)
 
 _Figure 2: Scatter plot of the first two principal components._
@@ -80,33 +81,39 @@ _Figure 2: Scatter plot of the first two principal components._
 
 **Relational Mapping**
 **MDS Projection Plot**
+
 ![MDS Projection Plot](assets/mds_plot.png)
 
 _Figure 3: Multi-Dimensional Scaling structural arrangement._
 
 **Correspondence Analysis Biplot**
+
 ![Correspondence Analysis Biplot](assets/Correspondence_Analysis.png)
 
 _Figure 4: Mapping lighting profiles against humidity categories._
 
 **Classification & Segmentation**
 **Canonical Discriminant Analysis**
+
 ![Canonical Discriminant Analysis Map](images/figure7_cda_separation.png)
 
 _Figure 5: Discriminant analysis group separation._
 
-K-Means Clustering
+**K-Means ClusteringR**
+
 ![K-Means Clustering Scatter](assets/Clustering.png)
 
 _Figure 6: Behavioral energy consumption clusters._
 
 **Predictive PLS Performance**
 **PLS Cross Validation**
+
 ![PLS Cross Validation Plot](assets/Cross_Validation.png)
 
 _Figure 7: Cross-validation performance across latent factors._
 
 **PLS Correlation Loading Plot**
+
 ![PLS Correlation Loading Chart](assets/Correlation_loading_plot.png)
 
 _Figure 8: Correlation loading plot of predictors vs consumption metrics._
