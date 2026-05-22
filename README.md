@@ -187,9 +187,9 @@ Upload the dataset into:
   
 ### 📚 Citation
 
-1. [Ariza, A. G., Arbulu, A. A., González, F. J. N., Bermejo, J. V. D., & Vallejo, M. E. C. (2021). Discriminant Canonical Analysis as a validation tool for multi-variety native breed egg commercial quality classification. Foods, 10(3), 632.]
+1. Ariza, A. G., Arbulu, A. A., González, F. J. N., Bermejo, J. V. D., & Vallejo, M. E. C. (2021). Discriminant Canonical Analysis as a validation tool for multi-variety native breed egg commercial quality classification. Foods, 10(3), 632.
 (https://www.mdpi.com/2304-8158/10/3/632)
-2. [Du, Y., Li, F., Kurte, K., Munk, J., & Zandi, H. (2022). Demonstration of intelligent HVAC load management with deep reinforcement learning: Real-World experience of Machine Learning in demand control. IEEE Power & Energy Magazine, 20(3), 42–53.] (https://doi.org/10.1109/mpe.2022.3150825)
+2. Du, Y., Li, F., Kurte, K., Munk, J., & Zandi, H. (2022). Demonstration of intelligent HVAC load management with deep reinforcement learning: Real-World experience of Machine Learning in demand control. IEEE Power & Energy Magazine, 20(3), 42–53. (https://doi.org/10.1109/mpe.2022.3150825)
 
 ## 👤 Author
 
