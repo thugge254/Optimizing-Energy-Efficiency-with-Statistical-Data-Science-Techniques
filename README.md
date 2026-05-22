@@ -65,61 +65,52 @@ Cross-validation procedures confirmed predictive stability with:
                       └─────────────────────────────┘
 ### 📈 Results & Visualizations
 **Energy Consumption Patterns**
-**Daily Average Appliance Energy Use))
-![Daily Average Appliance Energy Use](assets/Canonical_Discriminant_Analysis.png)
+**Daily Average Appliance Energy Use))**
 
-Figure 1: Daily average energy use by appliances.
+![Daily Average Appliance Energy Use](assets/daily_energy_use.png)
 
-Daily Average Lights Energy Use
-![Daily Average Lights Energy Use](images/figure2_lights_use.png)
+_Figure 1: Daily average energy use by light fittings._
 
-Figure 2: Daily average energy use by light fittings.
+**Principal Components & Latent Structures**
+**PCA Scree Plot**
+![PCA Scree Plot](assets/PCA.png)
 
-Principal Components & Latent Structures
-PCA Scree Plot
-![PCA Scree Plot](images/figure3_scree_plot.png)
+_Figure 2: Scatter plot of the first two principal components._
 
-Figure 3: Scree plot highlighting the variance elbow point.
+**Relational Mapping**
+**MDS Projection Plot**
+![MDS Projection Plot](assets/mds_plot.png)
 
-PCA Component Scatter Plot
-![PCA Component Scatter Plot](images/figure4_pca_scatter.png)
+_Figure 3: Multi-Dimensional Scaling structural arrangement._
 
-Figure 4: Scatter plot of the first two principal components.
+**Correspondence Analysis Biplot**
+![Correspondence Analysis Biplot](assets/Correspondence_Analysis.png)
 
-Relational Mapping
-MDS Projection Plot
-![MDS Projection Plot](images/figure5_mds_plot.png)
+_Figure 4: Mapping lighting profiles against humidity categories._
 
-Figure 5: Multi-Dimensional Scaling structural arrangement.
-
-Correspondence Analysis Biplot
-![Correspondence Analysis Biplot](images/figure6_correspondence_biplot.png)
-
-Figure 6: Mapping lighting profiles against humidity categories.
-
-Classification & Segmentation
-Canonical Discriminant Analysis
+**Classification & Segmentation**
+**Canonical Discriminant Analysis**
 ![Canonical Discriminant Analysis Map](images/figure7_cda_separation.png)
 
-Figure 7: Discriminant analysis group separation.
+_Figure 5: Discriminant analysis group separation._
 
 K-Means Clustering
-![K-Means Clustering Scatter](images/figure8_kmeans_clusters.png)
+![K-Means Clustering Scatter](assets/Clustering.png)
 
-Figure 8: Behavioral energy consumption clusters.
+_Figure 6: Behavioral energy consumption clusters._
 
-Predictive PLS Performance
-PLS Cross Validation
-![PLS Cross Validation Plot](images/figure9_pls_cv.png)
+**Predictive PLS Performance**
+**PLS Cross Validation**
+![PLS Cross Validation Plot](assets/Cross_Validation.png)
 
-Figure 9: Cross-validation performance across latent factors.
+_Figure 7: Cross-validation performance across latent factors._
 
-PLS Correlation Loading Plot
-![PLS Correlation Loading Chart](images/figure10_pls_loadings.png)
+**PLS Correlation Loading Plot**
+![PLS Correlation Loading Chart](assets/Correlation_loading_plot.png)
 
-Figure 10: Correlation loading plot of predictors vs consumption metrics.
+_Figure 8: Correlation loading plot of predictors vs consumption metrics._
 
-🔬 Discussion & Limitations
+### 🔬 Discussion & Limitations
 Model Utility
 
 This framework supports:
