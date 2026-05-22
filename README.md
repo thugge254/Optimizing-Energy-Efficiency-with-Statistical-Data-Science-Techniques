@@ -64,9 +64,9 @@ Cross-validation procedures confirmed predictive stability with:
                       │  (73.03% Variance Explained)│
                       └─────────────────────────────┘
 ### 📈 Results & Visualizations
-Energy Consumption Patterns
-Daily Average Appliance Energy Use
-![Daily Average Appliance Energy Use](images/figure1_appliance_use.png)
+**Energy Consumption Patterns**
+**Daily Average Appliance Energy Use))
+![Daily Average Appliance Energy Use](assets/Canonical_Discriminant_Analysis.png)
 
 Figure 1: Daily average energy use by appliances.
 
