@@ -119,34 +119,36 @@ _Figure 7: Cross-validation performance across latent factors._
 _Figure 8: Correlation loading plot of predictors vs consumption metrics._
 
 ### 🔬 Discussion & Limitations
-Model Utility
+**Model Utility**
 
 This framework supports:
 
-Smart building optimization
-HVAC energy control
-Predictive energy management
-Sustainable infrastructure planning
-Identified Constraints
+- Smart building optimization
+- HVAC energy control
+- Predictive energy management
+- Sustainable infrastructure planning
+  
+**Identified Constraints**
 
 Excluded variables:
 
-Human occupancy behavior
-Room overrides
-Structural architectural factors
+- Human occupancy behavior
+- Room overrides
+- Structural architectural factors
 
 These represent future optimization opportunities.
 
-Future Work
+**Future Work**
 
 Potential extensions include:
 
-Real-time IoT integrations
-Deep learning forecasting models
-Seasonal predictive systems
-Smart-grid automation pipelines
-📂 Repository Structure
-
+- Real-time IoT integrations
+- Deep learning forecasting models
+- Seasonal predictive systems
+- Smart-grid automation pipelines
+  
+### 📂 Repository Structure
+```
 ├── src/
 │   └── SAS analytical scripts
 │
@@ -157,44 +159,49 @@ Smart-grid automation pipelines
 │   └── Graphs, plots, and statistical visualizations
 │
 └── README.md
+```
 
-🚀 How to Reproduce in SAS
-1. Clone the Repository
-git clone <your-repository-url>
-2. Load Dataset into SAS
+### 🚀 How to Reproduce in SAS
+**1. Clone the Repository**
+
+`git clone https://github.com/thugge254/Optimizing-Energy-Efficiency-with-Statistical-Data-Science-Techniques.git`
+
+**2. Load Dataset into SAS**
 
 Upload the dataset into:
 
-SAS Studio
-SAS Enterprise Guide
-3. Configure Input Path
+- SAS Studio
+- SAS Enterprise Guide
+  
 
-Update the dataset location inside the SAS macro header:
+### 🧰 Technologies Used
+- SAS
+- PCA
+- Factor Analysis
+- Canonical Correlation Analysis
+- Correspondence Analysis
+- Multidimensional Scaling
+- K-Means Clustering
+- Canonical Discriminant Analysis
+- Partial Least Squares Regression
+  
+### 📚 Citation
 
-%let data_input = /your_directory/appliances_energy_prediction.csv;
-4. Run the SAS Scripts
+1. [Ariza, A. G., Arbulu, A. A., González, F. J. N., Bermejo, J. V. D., & Vallejo, M. E. C. (2021). Discriminant Canonical Analysis as a validation tool for multi-variety native breed egg commercial quality classification. Foods, 10(3), 632.]
+(https://www.mdpi.com/2304-8158/10/3/632)
+2. [Du, Y., Li, F., Kurte, K., Munk, J., & Zandi, H. (2022). Demonstration of intelligent HVAC load management with deep reinforcement learning: Real-World experience of Machine Learning in demand control. IEEE Power & Energy Magazine, 20(3), 42–53.] (https://doi.org/10.1109/mpe.2022.3150825)
 
-Execute the scripts sequentially to:
+## 👤 Author
 
-Generate statistical outputs
-Produce diagnostic graphics
-Build predictive models
-🧰 Technologies Used
-SAS
-PCA
-Factor Analysis
-Canonical Correlation Analysis
-Correspondence Analysis
-Multidimensional Scaling
-K-Means Clustering
-Canonical Discriminant Analysis
-Partial Least Squares Regression
-📚 Citation
+Moses Chege
 
-If you use this work in academic or professional research, please cite the original dataset source:
+#### Data Analyst | SQL • Python •  R • Excel | Turning Data into Actionable Insights
 
-Candanedo, L. M., Feldheim, V., & Deramaix, D. (2017). Data driven prediction models of energy use of appliances in a low-energy house. Energy and Buildings, 140, 81–97.
 
-👤 Author
+### GitHub Repository:
 
-Developed as part of an advanced multivariate analytics and predictive modeling study focused on sustainable energy systems and intelligent building analytics.
+https://github.com/thugge254/Optimizing-Energy-Efficiency-with-Statistical-Data-Science-Techniques
+
+#### License
+
+This project is open-source and available under the MIT License.
