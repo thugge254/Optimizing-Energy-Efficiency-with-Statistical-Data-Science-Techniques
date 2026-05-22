@@ -77,6 +77,7 @@ _Figure 1: Daily average energy use by light fittings._
 
 _Figure 2: Scatter plot of the first two principal components._
 
+
 **Relational Mapping**
 **MDS Projection Plot**
 ![MDS Projection Plot](assets/mds_plot.png)
