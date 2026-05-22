@@ -95,7 +95,7 @@ _Figure 4: Mapping lighting profiles against humidity categories._
 **Classification & Segmentation**
 **Canonical Discriminant Analysis**
 
-![Canonical Discriminant Analysis Map](images/figure7_cda_separation.png)
+![Canonical Discriminant Analysis Map](assets/Canonical_Discriminant_Analysis.png)
 
 _Figure 5: Discriminant analysis group separation._
 
